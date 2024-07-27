@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+.name{
+    position: relative;
+    font-size: 100px;
+    top: 20px;
+    left: 700px;
+    color: rgba(255, 255, 255, 0.575);
+}
+.menu{
+    position: relative;
+    top: 100px;
+    height: 300px;
+    width: 1220px;
+    left: 250px;
+}
+.shop{
+    border: 8px solid rgba(255, 255, 255, 0.5);
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+    background: radial-gradient(rgb(32, 31, 31), rgb(103, 107, 91));
+}
+.pricol{
+    border: 8px solid rgb(156, 216, 14);
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 420px;
+    border-radius: 30px;
+    background: radial-gradient(rgb(216, 213, 36), rgb(34, 63, 11));
+}
+.pricol2{
+    border: 8px solid rgb(212, 44, 198);
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 840px;
+    border-radius: 30px;
+    background: radial-gradient(rgb(215, 228, 35), rgb(221, 12, 221));
+}
+.text{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    left: 120px;
+}
+.pic1{
+    width: 170px;
+    position: absolute;
+    top:110px;
+    left: 100px;
+}
+.pic2{
+    width: 170px;
+    position: absolute;
+    top:110px;
+    left: 100px;
+}
+.pic3{
+    width: 110px;
+    position: absolute;
+    top:110px;
+    left: 120px;
+}
+.bitch{
+    position: relative;
+    width: 1000px;
+    top: 150px;
+    left: 350px;
+    border: 10px solid rgb(128, 118, 97);
+    border-radius: 30px;
+}
